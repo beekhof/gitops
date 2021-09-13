@@ -1,0 +1,6 @@
+[submodule "applications/bootstrap"]
+	path = applications/bootstrap
+	url = git@github.com:dagger-refuse-cool/bootstrap.git
+[submodule "main"]
+	path = main
+	url = git@github.com:dagger-refuse-cool/main.git
